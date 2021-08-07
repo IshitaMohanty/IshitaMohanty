@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designing & Logo or Poster Designing
 - 🌱 I’m currently a Designer
 - 📫 Reach me through other platform :
-- Instagram-_____i_s_h_i_t_a___
+- Instagram- _____i_s_h_i_t_a___
 - Twitter- @IshitaMohanty13
 - Linked in-Ishita Mohanty
                                                      
