@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @IshitaMohanty
-- 👀 I’m interested in Web Designing & Logo & Poster Designing
+- 👀 I’m interested in Web Designing & Logo or Poster Designing
 - 🌱 I’m currently a Designer
-- 📫 Reach me through other platform : Instagram- 
-                                        Twitter-
-                                        Linked in-
+- 📫 Reach me through other platform : Instagram- Twitter- Linked in-
                                                      
 <!---
 IshitaMohanty/IshitaMohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
