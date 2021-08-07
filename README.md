@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ishita Mohanty
 - 👀 I’m interested in Web Designing & Logo or Poster Designing
 - 🌱 I’m currently a Designer
-- 📫 Reach me through other platform :
-- Instagram- _____i_s_h_i_t_a___
+- 📫 Reach me through other platforms :
+- Instagram- Ishita Mohanty
 - Twitter- @IshitaMohanty13
 - Linked in-Ishita Mohanty
                                                      
