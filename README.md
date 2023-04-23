@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishita Mohanty
 - 👀 I’m interested in Web Designing & Logo or Poster Designing
-- 🌱 I’m currently pursuing BTech degree
+- 🌱 I’m currently pursuing BTech
 - 📫 Reach me through other platforms :
 - Instagram- Ishita Mohanty
 - Twitter- @IshitaMohanty13
