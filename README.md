@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing BTech
 - 📫 Reach me through other platforms :
 - Instagram- Ishita Mohanty
-- Twitter- @IshitaMohanty13
+- X- @IshitaMohanty13
 - Linked in-Ishita Mohanty
                                                      
 <!---
