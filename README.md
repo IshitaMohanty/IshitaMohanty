@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ishita Mohanty</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6BAZapEOZHmgmWGAmYztiQ_hxI02UeID3Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitamohanty&label=Profile%20views&color=0e75b6&style=flat" alt="ishitamohanty" /> </p>
 
