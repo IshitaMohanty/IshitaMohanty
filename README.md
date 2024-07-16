@@ -1,16 +1,19 @@
-- 👋 Hi, I’m @Ishita Mohanty
-- 👀 I’m interested in app development, Web Designing & Logo or Poster Designing
-- 🌱 I’m currently pursuing BTech
-- 📫 Reach me through other platforms :
-- Instagram- Ishita Mohanty
-- X- @IshitaMohanty13
-- Linked in-Ishita Mohanty
-                                                     
-<!---
-IshitaMohanty/IshitaMohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+                                                  
+<h1 align="center">Hi 👋, I'm Ishita Mohanty</h1>
 <h3 align="center">A passionate developer from India</h3>
+
+- 🔭 I’m currently working on **frontend project**
+
+- 🌱 I’m currently learning **pythonDSA,HTML5,CSS3,Bootstrap,Javascript,DJango,Flutter,Java,MySQL**
+
+- 👯 I’m looking to collaborate on **web development project**
+
+- 💬 Ask me about **python,MySQL**
+
+- 📫 How to reach me **imohanty1954@gmail.com**
+
+- ⚡ Fun fact **I am an over enthusiastic person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
