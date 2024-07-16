@@ -1,15 +1,13 @@
-
-                                                  
 <h1 align="center">Hi 👋, I'm Ishita Mohanty</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **frontend project**
 
-- 🌱 I’m currently learning **pythonDSA,HTML5,CSS3,Bootstrap,Javascript,DJango,Flutter,Java,MySQL**
+- 🌱 I’m currently learning **python, DSA, HTML5, CSS3, Bootstrap, Javascript, DJango, Flutter, Java, MySQL**
 
 - 👯 I’m looking to collaborate on **web development project**
 
-- 💬 Ask me about **python,MySQL**
+- 💬 Ask me about **python, MySQL**
 
 - 📫 How to reach me **imohanty1954@gmail.com**
 
