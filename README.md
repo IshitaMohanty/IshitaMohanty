@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/ishitamohanty13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishitamohanty13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishita mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita mohanty" height="30" width="40" /></a>
-<a href="https://instagram.com/ishita mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishita mohanty" height="30" width="40" /></a>
+<a href="https://instagram.com/___d.i.y.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishita mohanty" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imohanty13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imohanty13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishita013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishita013" height="30" width="40" /></a>
 </p>
