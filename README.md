@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python, MySQL**
 
-- 📫 How to reach me **imohanty1954@gmail.com**
+- 📫 How to reach me **ishitamohanty1954@gmail.com**
 
 - ⚡ Fun fact **I am an over enthusiastic person**
 
