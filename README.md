@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ishitamohanty1954@gmail.com**
 
-- ⚡ Fun fact **I am an over enthusiastic person**
+- ⚡ Fun fact **I am an ambitious person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
