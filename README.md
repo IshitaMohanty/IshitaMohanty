@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **frontend project**
 
-- 🌱 I’m currently learning **python, DSA, HTML5, CSS3, Bootstrap, Javascript, DJango, Flutter, Java, MySQL**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, MySQL, Python**
 
 - 👯 I’m looking to collaborate on **web development project**
 
